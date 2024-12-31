@@ -3,25 +3,66 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --cream: #f5f5f0;
+  --sand: #e8e6e1;
+  --wood: #9b8b7d;
+  --earth: #766b62;
+  --charcoal: #2c2c2c;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-color: var(--cream);
+    color: var(--charcoal);
+    font-family: 'Inter', sans-serif;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-full text-sm font-medium transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    background-color: var(--earth);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    background-color: var(--wood);
+  }
+
+  .btn-secondary {
+    background-color: white;
+    color: var(--earth);
+    border: 1px solid var(--earth);
+  }
+
+  .btn-secondary:hover {
+    background-color: var(--sand);
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-light mb-8 text-center tracking-wide;
+    color: var(--charcoal);
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  .text-content {
+    color: var(--wood);
   }
 }
+
