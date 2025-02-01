@@ -1,3 +1,5 @@
+A visually soothing interior design landing page with elegant hover effects that bring spaces to life. Seamless transitions and a clean aesthetic create an immersive, modern experience.
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
