@@ -3,6 +3,37 @@ A visually soothing interior design landing page with elegant hover effects that
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+---
+
+## 3️⃣ **Interior Design – `README.md`**
+
+```markdown
+# 🏡 Interior Design – Landing Page  
+
+An elegant and modern **Interior Design Landing Page** built with **Next.js, Tailwind CSS, Framer Motion, and shadcn/ui**.  
+It features **smooth animations, premium UI, and section-based navigation**, crafted to showcase stunning interiors with style.  
+
+---
+
+## ✨ Features  
+- 🏡 Luxury-inspired clean design  
+- 🎬 Smooth animations with Framer Motion  
+- 🧭 Section-based smooth scroll navigation  
+- 📱 Fully responsive across devices  
+- 🧩 Portfolio showcase using shadcn/ui  
+
+---
+
+## 🛠️ Tech Stack  
+- **Next.js** – React-based framework  
+- **Tailwind CSS** – Utility-first responsive styling  
+- **Framer Motion** – Animations & effects  
+- **shadcn/ui** – Elegant UI components  
+
+---
+
+
+
 ## Getting Started
 
 First, run the development server:
