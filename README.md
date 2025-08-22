@@ -5,9 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ---
 
-## 3️⃣ **Interior Design – `README.md`**
 
-```markdown
 # 🏡 Interior Design – Landing Page  
 
 An elegant and modern **Interior Design Landing Page** built with **Next.js, Tailwind CSS, Framer Motion, and shadcn/ui**.  
