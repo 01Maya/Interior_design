@@ -2,6 +2,22 @@
   "name": "interiordesign",
   "version": "0.1.0",
   "private": true,
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "homepage": "https://github.com/01Maya/Interior_design#readme",
+  "bugs": {
+    "url": "https://github.com/01Maya/Interior_design/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01Maya/Interior_design.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,7 +29,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^11.15.0",
     "lucide-react": "^0.469.0",
-    "next": "14.2.16",
+    "next": "^14.2.33",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.6.0",

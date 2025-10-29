@@ -23,7 +23,7 @@ export default function Contact() {
           >
             <h3 className="text-2xl font-light mb-4 text-[var(--earth)]">Get in Touch</h3>
             <p className="text-content mb-6">
-              We'd love to hear from you. Whether you have a question about our services, pricing, or just want to say hello, we're here to help.
+              We would love to hear from you. Whether you have a question about our services, pricing, or just want to say hello, we are here to help.
             </p>
             <ul className="space-y-4">
               <li className="flex items-center text-content">
