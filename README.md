@@ -26,6 +26,9 @@ It features **smooth animations, premium UI, and section-based navigation**, cra
 
 ---
 
+## Screenshot
+
+![Image](https://github.com/user-attachments/assets/f00266e5-2fe5-4c8c-936f-fd35817745f0)
 
 
 ## Getting Started
