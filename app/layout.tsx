@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Luxor Interior Design✨',
-  description: 'Transform your space with Luxor Interior Design',
+  description: 'Transform your space with Luxor Interior Design💎',
 }
 
 export default function RootLayout({
