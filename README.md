@@ -1,6 +1,4 @@
 
----
-
 
 # 🏡 Interior Design – Landing Page  
 
