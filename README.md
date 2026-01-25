@@ -36,7 +36,7 @@ Mobile View 📲
 First, run the development server:
 
 ```bash
-npm run dev
+1.npm run dev
 # or
 yarn dev
 # or
