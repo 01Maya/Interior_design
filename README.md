@@ -24,7 +24,7 @@ It features **smooth animations, premium UI, and section-based navigation**, cra
 
 ---
 
-## Screenshot
+## Screenshot 📸
 
 Mobile View 📲
 
