@@ -38,7 +38,7 @@ First, run the development server:
 ```bash
 1.npm run dev
 # or
-2.yarn dev
+2. yarn dev
 # or
 3. pnpm dev
 # or
