@@ -40,7 +40,7 @@ First, run the development server:
 # or
 2.yarn dev
 # or
-3.pnpm dev
+3. pnpm dev
 # or
 4. bun dev
 ```
