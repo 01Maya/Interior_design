@@ -1,6 +1,6 @@
 
 
-# 🏡 Interior Design – Landing Page 🪄
+# 🏡 Interior Design – Landing Page 
 
 An elegant and modern **Interior Design Landing Page** built with **Next.js, Tailwind CSS, Framer Motion, and shadcn/ui**.  
 It features **smooth animations, premium UI, and section-based navigation**, crafted to showcase stunning interiors with style.  
