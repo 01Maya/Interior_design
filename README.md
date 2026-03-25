@@ -32,7 +32,7 @@ Mobile View 📲
 
 ---
 
-## Getting Started 🔧
+## 🔧 Getting Started 
 
 First, run the development server:
 
